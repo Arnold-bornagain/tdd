@@ -1,0 +1,18 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "David and kato",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.32.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  }
+}
